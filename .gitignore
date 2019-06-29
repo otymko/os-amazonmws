@@ -1,2 +1,3 @@
 tests/fixtures/keys.json
 out/
+.vscode/
