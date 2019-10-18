@@ -1,5 +1,5 @@
 ﻿
-Описание.Имя("amazon-mws")
+Описание.Имя("os-amazonmws")
         .Версия("1.0.0")
         .Автор("otymko")
         .АдресАвтора("olegtymko@yandex.ru")

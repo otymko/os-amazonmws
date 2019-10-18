@@ -8,13 +8,13 @@
 
 В консоли выполняем:
 ```
-opm install amazon-mws
+opm install os-amazonmws
 ```
 ### Из файла
 
 Качаем последний релиз со страницы Релизы. Затем из командной строки:
 ```
-opm install -f amazon-mws*.ospx
+opm install -f os-amazonmws*.ospx
 ```
 
 ## Примеры
@@ -30,7 +30,7 @@ opm install -f amazon-mws*.ospx
 
 Подготовительный этап:
 ```bsl
-#Использовать amazon-mws
+#Использовать os-amazonmws
 
 // Инициализируем с нужными данными
 ИдентификаторПродавца = "";
